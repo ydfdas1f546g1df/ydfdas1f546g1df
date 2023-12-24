@@ -1,26 +1,15 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ydfdas1f546g1df&show_icons=true&theme=tokyonight" />
-</a></p>
-
-<p align="center"><a href="https://wakatime.com/@ydfdas1f546g1df">
-<a href="https://wakatime.com/@ydfdas1f546g1df">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydfdas1f546g1df&layout=donut&theme=tokyonight" />
-
-[//]: # (</a>)
-
-[//]: # (  <img align="center" width="400" height="300" src="https://wakatime.com/share/@ydfdas1f546g1df/74537e1a-9549-484a-ac48-a7853420da5f.svg" />)
-
-[//]: # (</a>)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydfdas1f546g1df&layout=donut&theme=tokyonight" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ydfdas1f546g1df&layout=compact\&theme=tokyonight" />
 </p>
 
-[//]: # (<p align="center"><a href="https://wakatime.com/@ydfdas1f546g1df">)
-
-[//]: # (  <img align="center" width="400" height="300" src="https://wakatime.com/share/@ydfdas1f546g1df/2cdd953e-a702-4f2c-a310-be4f22e66d59.svg" />)
-
-[//]: # (</a>)
-
-[//]: # (<a href="https://wakatime.com/@ydfdas1f546g1df">)
-
-[//]: # (  <img align="center" width="400" height="300" src="https://wakatime.com/share/@ydfdas1f546g1df/287d3975-1fc0-4085-8038-1c4440f8428a.svg" />)
-
-[//]: # (</a></p>)
+<p align="center">
+  <img align="center" src="https://wakatime.com/share/@ydfdas1f546g1df/17e38866-d21b-4cd6-97a4-cabbb0260245.svg" />
+</p>
+<p align="center">
+  <img align="center" width="49%" src="https://wakatime.com/share/@ydfdas1f546g1df/e9a203ed-c7fa-443c-9de4-b5ef8700454b.svg" />
+  <img align="center" width="49%" src="https://wakatime.com/share/@ydfdas1f546g1df/9c46d937-f2d8-4459-ae6e-6783b5584d85.svg" />
+</p>
